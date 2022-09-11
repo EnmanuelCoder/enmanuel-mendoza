@@ -3,7 +3,7 @@ import Technology from "../components/Skills";
 
 const Aptitudes = () => {
   return (
-    <section className="container flex flex-col items-center h-[500px] ">
+    <section className="container flex flex-col items-center h-[500px] " id="skills">
       <h2 className="text-3xl text-white text-center py-10">Skills</h2>
 
       <article className="w-full h-96 space-y-5 rounded-lg py-9">

@@ -8,6 +8,7 @@ module.exports = {
     colors: {
       "primary": "#191c32",
       "secondary": "#00ffff;",
+      "cards": "#11131f",
       "white": "#ffffff",
       colors
 

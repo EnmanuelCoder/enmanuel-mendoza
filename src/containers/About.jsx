@@ -4,9 +4,9 @@ import perfil from "../assets/perfil.jpeg";
 
 const About = () => {
   return (
-    <section className='w-full h-4/6 flex items-center gap-10 bg-white text-primary '>
+    <section className='w-full h-4/6 flex items-center gap-10 bg-white text-primary' id='about'>
       <figure className='w-1/2 h-[500px] '>
-        <img src={perfil} alt='My picture' className='w-full h-full object-cover '/>
+        <img src={perfil} alt='This is I am' className='w-full h-full object-cover '/>
       </figure>
       <div className='w-1/2 space-y-4 pr-10'>
         <h2 className="text-4xl font-bold">About me</h2>
