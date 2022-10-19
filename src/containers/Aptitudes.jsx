@@ -3,19 +3,31 @@ import Technology from "../components/Skills";
 
 const Aptitudes = () => {
   return (
-    <section className="container flex flex-col items-center h-[500px] " id="skills">
-      <h2 className="text-3xl text-white text-center py-10">Skills</h2>
+    <section
+      className="container mx-auto flex flex-col items-center h-auto p-4 "
+      id="skills"
+    >
+      <h2 className="text-3xl text-white font-bold py-10">My current skills</h2>
 
-      <article className="w-full h-96 space-y-5 rounded-lg py-9">
-        <div className="w-full h-full grid grid-cols-3 grid-rows-3 grid-flow-col justify-center items-start">
+      <article className="w-full h-auto space-y-5 rounded-lg pt-9">
+        <div className="w-full h-full grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 grid-rows-3 gap-5 justify-center items-start">
           <Technology skills="HTML" level="Expert" />
-          <Technology skills="CSS" level="Expert" />
-          <Technology skills="JS" level="Expert" />
-          <Technology skills="Tailwind" level="Expert" />
-          <Technology skills="Node JS" level="Expert" />
-          <Technology skills="Python" level="Expert" />
-          <Technology skills="Git y GitHub" level="Expert" />
-          <Technology skills="Excel" level="Expert" />
+          <Technology skills="CSS" level="High" />
+          <Technology skills="JS" level="Medium" />
+          <Technology skills="Tailwind" level="High" />
+          <Technology skills="Node JS" level="Medium" />
+          <Technology skills="Git y GitHub" level="High" />
+        </div>
+      </article>
+      <article className="w-full h-auto space-y-5 rounded-lg pt-9">
+        <h2 className="text-3xl text-white font-bold py-10 text-center">
+          I am interested in learning:
+        </h2>
+
+        <div className="w-full h-full grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 grid-rows-3 gap-5 justify-center items-start">
+          <Technology skills="Next JS" />
+          <Technology skills="Express.js" />
+          <Technology skills="PostgreSQL" />
         </div>
       </article>
     </section>

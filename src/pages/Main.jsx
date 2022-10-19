@@ -1,6 +1,7 @@
 import React from "react";
 import About from "../containers/About";
 import Aptitudes from "../containers/Aptitudes";
+import Footer from "../containers/Footer";
 import Header from "../containers/Header";
 import Home from "../containers/Home";
 import Portafolio from "../containers/Portafolio";
@@ -15,6 +16,7 @@ const Main = () => {
         <Aptitudes />
         <Portafolio />
       </main>
+      <Footer />
     </>
   );
 };

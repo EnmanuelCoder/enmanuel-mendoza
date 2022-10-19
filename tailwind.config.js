@@ -7,7 +7,8 @@ module.exports = {
   theme: {
     colors: {
       "primary": "#191c32",
-      "secondary": "#00ffff;",
+      "secondary": "#2e3257",
+      "logo": "#5761AD",
       "cards": "#11131f",
       "white": "#ffffff",
       colors
@@ -17,7 +18,7 @@ module.exports = {
       Montserrat: ["'Montserrat', sans-serif"],
     },
     extend: {
-      
+     
     },
   },
   plugins: [
