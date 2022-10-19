@@ -9,7 +9,7 @@ const PersonalBlog = () => {
   return (
     <>
       <HeaderProject 
-        page="/"
+        page="/enmanuel-mendoza"
       />
       <main className='w-full h-full pt-32 m-auto p-5'>
         <h1 className='text-5xl  font-Montserrat text-white text-center p-5'>My blog</h1>

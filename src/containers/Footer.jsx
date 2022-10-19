@@ -17,20 +17,18 @@ const Footer = () => {
         </h4>
       </div>
       <div className="flex gap-6">
-        <a href="https://github.com/EnmanuelCoder">
+        <a href="https://github.com/EnmanuelCoder" target="_blank">
           <img
             src={github}
             alt="icons social media"
             className="w-12 md:w-16 p-3 bg-primary rounded-full"
-            target="_blank"
           />
         </a>
-        <a href="https://twitter.com/EnmanuelCoder">
+        <a href="https://twitter.com/EnmanuelCoder" target="_blank">
           <img
             src={twiter}
             alt="icons social media"
             className="w-12 md:w-16 p-3 bg-primary rounded-full"
-            target="_blank"
           />
         </a>
         <a

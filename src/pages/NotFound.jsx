@@ -18,7 +18,7 @@ const NotFound = () => {
               Sorry, there was an error, please try again later.
             </h3>
             <Link
-              to="/"
+              to="/enmanuel-mendoza"
               className='w-auto bg-secondary text-white text-center p-3 rounded-full shadow-lg font-semibold transition ease-in-out delay-150 bg-blue-500 hover:-translate-y-1 hover:scale-110 hover:bg-indigo-500 duration-300"'
             >
               Turn back

@@ -8,7 +8,7 @@ const Calculadora = () => {
   return (
     <>
       <HeaderProject 
-        page="/"
+        page="/enmanuel-mendoza"
       />
      {dataProjects.map((item, index) => {
         if(item.name === "Calculadora") {
