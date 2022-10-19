@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/enmanuel-mendoza/static/css/main.2978b16c.css",
+    "main.js": "/enmanuel-mendoza/static/js/main.a49ae691.js",
+    "static/media/platzi-travel.png": "/enmanuel-mendoza/static/media/platzi-travel.eaae7989e705224f72d0.png",
+    "static/media/insure.png": "/enmanuel-mendoza/static/media/insure.20c7f67ce583994818b5.png",
+    "static/media/batatabit.png": "/enmanuel-mendoza/static/media/batatabit.9c7eb291598dec7d69f1.png",
+    "static/media/code.jpg": "/enmanuel-mendoza/static/media/code.9a7917e11b501dbae86e.jpg",
+    "static/media/project-aguacate.png": "/enmanuel-mendoza/static/media/project-aguacate.664c782ae21bd21ddaf2.png",
+    "static/media/perfil.jpeg": "/enmanuel-mendoza/static/media/perfil.0be48dde93a0184d8215.jpeg",
+    "static/media/myPicture.jpeg": "/enmanuel-mendoza/static/media/myPicture.9ba4a15ace2e7231bd86.jpeg",
+    "static/media/google.png": "/enmanuel-mendoza/static/media/google.be61ca34c937d9e37bc0.png",
+    "static/media/calculadora.png": "/enmanuel-mendoza/static/media/calculadora.4324476040967d3488ad.png",
+    "static/media/error.svg": "/enmanuel-mendoza/static/media/error.88bb064290ec6a2a673567ab5e5affe8.svg",
+    "static/media/counter-clicks.png": "/enmanuel-mendoza/static/media/counter-clicks.5dcd0efed698bf97c6ac.png",
+    "static/media/instagram.svg": "/enmanuel-mendoza/static/media/instagram.b7539adbeda4a338a8228921cec171da.svg",
+    "index.html": "/enmanuel-mendoza/index.html",
+    "static/media/github.svg": "/enmanuel-mendoza/static/media/github.882cf48963aa536f535a1c9c830295d1.svg",
+    "static/media/twiter.svg": "/enmanuel-mendoza/static/media/twiter.3568fea22e9eda8c238069e4f42e3e79.svg",
+    "static/media/check.svg": "/enmanuel-mendoza/static/media/check.9d845b7efbea676467d6af31cf2dbdc6.svg",
+    "static/media/linkedin.svg": "/enmanuel-mendoza/static/media/linkedin.1601b5e18afd5b2ef1f6730fdea45f31.svg",
+    "static/media/arrowLeft.svg": "/enmanuel-mendoza/static/media/arrowLeft.533a549bf47a68f42d29b262371f23bd.svg",
+    "static/media/close.svg": "/enmanuel-mendoza/static/media/close.16f4d3fbc0053ded50c77bb0c53af8c0.svg",
+    "static/media/menu.svg": "/enmanuel-mendoza/static/media/menu.61d09797c79c2b7112962b39fc1ce719.svg",
+    "main.2978b16c.css.map": "/enmanuel-mendoza/static/css/main.2978b16c.css.map",
+    "main.a49ae691.js.map": "/enmanuel-mendoza/static/js/main.a49ae691.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2978b16c.css",
+    "static/js/main.a49ae691.js"
+  ]
+}
