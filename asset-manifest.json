@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/enmanuel-mendoza/static/css/main.2978b16c.css",
-    "main.js": "/enmanuel-mendoza/static/js/main.a49ae691.js",
+    "main.js": "/enmanuel-mendoza/static/js/main.67d4e1bd.js",
     "static/media/platzi-travel.png": "/enmanuel-mendoza/static/media/platzi-travel.eaae7989e705224f72d0.png",
     "static/media/insure.png": "/enmanuel-mendoza/static/media/insure.20c7f67ce583994818b5.png",
     "static/media/batatabit.png": "/enmanuel-mendoza/static/media/batatabit.9c7eb291598dec7d69f1.png",
@@ -23,10 +23,10 @@
     "static/media/close.svg": "/enmanuel-mendoza/static/media/close.16f4d3fbc0053ded50c77bb0c53af8c0.svg",
     "static/media/menu.svg": "/enmanuel-mendoza/static/media/menu.61d09797c79c2b7112962b39fc1ce719.svg",
     "main.2978b16c.css.map": "/enmanuel-mendoza/static/css/main.2978b16c.css.map",
-    "main.a49ae691.js.map": "/enmanuel-mendoza/static/js/main.a49ae691.js.map"
+    "main.67d4e1bd.js.map": "/enmanuel-mendoza/static/js/main.67d4e1bd.js.map"
   },
   "entrypoints": [
     "static/css/main.2978b16c.css",
-    "static/js/main.a49ae691.js"
+    "static/js/main.67d4e1bd.js"
   ]
 }
