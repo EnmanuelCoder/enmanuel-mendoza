@@ -44,7 +44,7 @@ const Home = () => {
           </a>
         </div>
         <a
-          href="https://drive.google.com/file/d/1D780DJqhRR0o41fRPqJtJHshmVyu-cV5/view?usp=sharing"
+          href="https://drive.google.com/file/d/1_wSDWq8pY5clWRHLL9a407pFjoPAVZoH/view?usp=sharing"
           target="_blank"
         >
           <Button>Download CV</Button>

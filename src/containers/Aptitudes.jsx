@@ -7,7 +7,7 @@ const Aptitudes = () => {
       className="container mx-auto flex flex-col items-center h-auto p-4 "
       id="skills"
     >
-      <h2 className="text-3xl text-white font-bold py-10">My current skills</h2>
+      <h2 className="text-xl md:text-3xl text-white font-bold py-5 md:py-10">My current skills</h2>
 
       <article className="w-full h-auto space-y-5 rounded-lg pt-9">
         <div className="w-full h-full grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 grid-rows-3 gap-5 justify-center items-start">
@@ -20,7 +20,7 @@ const Aptitudes = () => {
         </div>
       </article>
       <article className="w-full h-auto space-y-5 rounded-lg pt-9">
-        <h2 className="text-3xl text-white font-bold py-10 text-center">
+        <h2 className="text-xl md:text-3xl text-white font-bold py-5 md:py-10 text-center">
           I am interested in learning:
         </h2>
 
