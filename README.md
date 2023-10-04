@@ -8,8 +8,3 @@ I am a web development student at Platzi and self-taught, I am passionate about 
 - Tailwind CSS
 - Node JS
 - Git and Github
-
-## My current skills
-- Next JS
-- Express.js
-- PostgreSQL
